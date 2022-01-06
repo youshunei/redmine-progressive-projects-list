@@ -22,7 +22,7 @@ div.child a.project {
 }
 
 div#projects-index table.progress {
-	width: 30em;
+	width: 100%;
 }
 
 div.progressive-overview table.progress {
